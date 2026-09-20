@@ -1,5 +1,7 @@
 # Java
 
+[Algorithm guide: pseudocode, time complexity, and memory](docs/ALGORITHM_GUIDE.md).
+
 LeetCode problems solved in Java. Three problems so far, picked specifically because the Java type system makes them more interesting than the Python equivalents.
 
 ## Problems
